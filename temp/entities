@@ -1,0 +1,17 @@
+    "entities": {
+        "hashtags": [],
+        "trends": [],
+        "urls": [
+            {
+                "url": "http://t.co/LjTVZtHihl",
+                "expanded_url": "http://bit.ly/1JlXJ8f",
+                "display_url": "bit.ly/1JlXJ8f",
+                "indices": [
+                    114,
+                    136
+                ]
+            }
+        ],
+        "user_mentions": [],
+        "symbols": []
+    },
